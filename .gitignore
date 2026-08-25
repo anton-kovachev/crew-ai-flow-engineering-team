@@ -1,0 +1,12 @@
+.env
+__pycache__/
+lib/
+.DS_Store
+.venv/
+.pytest_cache/
+.mypy_cache/
+.pyright/
+.coverage
+htmlcov/
+test-results/
+playwright-report/
